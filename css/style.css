@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600&display=swap");
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Baloo 2", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  flex: 0.5;
+  font-size: 24px;
+  margin: 1px;
+}
+
+.error {
+  font-size: 2rem;
+  color: #999999;
+  text-align: center;
+}
+
+.h2-sejarah {
+  font-size: 3rem;
+  color: #000000;
+  text-align: center;
+}
+
+.tebal {
+  font-weight: bold;
+  color: #755330;
+}
+
+.judul {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.p-1 {
+  text-align: center;
+  font-size: 1.75rem;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #ffffff;
+  color: black;
+  text-align: center;
+  padding: 10px 0;
+}
